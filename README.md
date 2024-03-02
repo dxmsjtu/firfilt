@@ -1,6 +1,7 @@
 Documentation
 -------------
-See [this page](https://eeglab.org/others/Firfilt_FAQ.html) or the [paper](https://home.uni-leipzig.de/biocog/eprints/widmann_a2015jneuroscimeth250_34.pdf) for documentation.
+See [this page](https://eeglab.org/others/Firfilt_FAQ.html) or the [paper](https://home.uni-leipzig.de/biocog/eprints/widmann_a2015jneuroscimeth250_34.pdf)
+ for documentation.
 
 Please reference to
 
